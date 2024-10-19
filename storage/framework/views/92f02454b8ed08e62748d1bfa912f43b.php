@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\triple-network\resources\views/components/navbars/navs/auth.blade.php ENDPATH**/ ?>
